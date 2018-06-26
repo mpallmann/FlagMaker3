@@ -1,2 +1,11 @@
 C:\Users\pall3972\AppData\Local\Temporary Projects\FlagMaker3\bin\Debug\FlagMaker3.exe.config
 C:\mjp\Dev2015\Personal\FlagMaker3\FlagMaker3\bin\Debug\FlagMaker3.exe.config
+C:\Users\pall3972\Documents\GitHub\FlagMaker3\FlagMaker3\bin\Debug\FlagMaker3.exe.config
+C:\Users\pall3972\Documents\GitHub\FlagMaker3\FlagMaker3\bin\Debug\FlagMaker3.exe
+C:\Users\pall3972\Documents\GitHub\FlagMaker3\FlagMaker3\bin\Debug\FlagMaker3.pdb
+C:\Users\pall3972\Documents\GitHub\FlagMaker3\FlagMaker3\obj\Debug\FlagMaker3.csprojResolveAssemblyReference.cache
+C:\Users\pall3972\Documents\GitHub\FlagMaker3\FlagMaker3\obj\Debug\FlagMaker3.Form1.resources
+C:\Users\pall3972\Documents\GitHub\FlagMaker3\FlagMaker3\obj\Debug\FlagMaker3.Properties.Resources.resources
+C:\Users\pall3972\Documents\GitHub\FlagMaker3\FlagMaker3\obj\Debug\FlagMaker3.csproj.GenerateResource.Cache
+C:\Users\pall3972\Documents\GitHub\FlagMaker3\FlagMaker3\obj\Debug\FlagMaker3.exe
+C:\Users\pall3972\Documents\GitHub\FlagMaker3\FlagMaker3\obj\Debug\FlagMaker3.pdb
