@@ -1,0 +1,2 @@
+C:\Users\pall3972\AppData\Local\Temporary Projects\FlagMaker3\bin\Debug\FlagMaker3.exe.config
+C:\mjp\Dev2015\Personal\FlagMaker3\FlagMaker3\bin\Debug\FlagMaker3.exe.config
